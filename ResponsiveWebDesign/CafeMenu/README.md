@@ -37,20 +37,20 @@ This is my solution to the Cafe Menu mini-project (https://www.freecodecamp.org/
 
 - My major takeaways from this project include noticing the collection of basic fundamental collections of CSS properties that'll be applied to most projects.
 
-Below is some code that is most interesting:
+Below is some code that I found most interesting or am proud of:
 
 ```html
     <article class="item">
-            <p class="flavor">French Vanilla</p><p class="price">3.00</p>
-          </article>
+      <p class="flavor">French Vanilla</p><p class="price">3.00</p>
+    </article>
 ```
 
 ```CSS
     .item p {
-        display: inline-block;
-        margin-top: 5px;
-        margin-bottom: 5px;
-        font-size: 18px;
+      display: inline-block;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      font-size: 18px;
     }
 ```
 

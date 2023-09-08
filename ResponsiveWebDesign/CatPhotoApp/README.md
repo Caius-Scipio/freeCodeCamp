@@ -36,7 +36,7 @@ This is my solution to the Cat Photo App mini-project (https://www.freecodecamp.
 
 - My major takeaways from this project include the use of "legend", the common input attributes and how they are used, and two ways to use "label."
 
-Below is some code I am proud of:
+Below is some code that I found most interesting or am proud of:
 
 ```html
     <fieldset>

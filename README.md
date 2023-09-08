@@ -1,5 +1,5 @@
 # freeCodeCamp
-This repository is a collection of all projects and mini projects I completed to practice various aspects of Front- and Back-End Coding
+This repository is a collection of all projects and mini projects from freeCodeCamp.org that I completed to practice various aspects of Front- and Back-End Coding.
 (https://www.freecodecamp.org/learn)
 
 ## Table of contents
@@ -34,7 +34,10 @@ This repository is a collection of all projects and mini projects I completed to
 - CSS custom properties
 
 ## Author
+
 - Coder pen name: Caius Scipio
 - Contact: caiuscipio@gmail.com
 
 ## Acknowledgments
+
+- freeCodeCamp and their community
