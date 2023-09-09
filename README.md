@@ -19,12 +19,16 @@ This repository is a collection of all projects and mini projects from freeCodeC
   - Responsive Web Design - HTML and CSS
     - Cat Photo App [mini-project]
     - Cafe Menu [mini-project]
+    - Colored Markers [mini-project]
+    - Registration Form [mini-project]
   - JavaScript and Data Structures - JS
 
 ### Links
 
   - Cat Photo App (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPhotoApp)
   - Cafe Menu (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CafeMenu)
+  - Colored Markers (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ColoredMarkers)
+  - Registration Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RegistrationForm)
 
 ## My process
 
@@ -41,3 +45,4 @@ This repository is a collection of all projects and mini projects from freeCodeC
 ## Acknowledgments
 
 - freeCodeCamp and their community
+- GitHub and their community
