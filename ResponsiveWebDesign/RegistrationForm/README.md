@@ -20,7 +20,7 @@ This is my solution to the Registration Form mini-project (https://www.freecodec
 
 ### Screenshot
 
-![](./RegistrationForm.jpg)
+![](./RegistrationForm.png)
 
 ### Links
 
@@ -35,26 +35,31 @@ This is my solution to the Registration Form mini-project (https://www.freecodec
 
 ### What I learned
 
-<!-- - My major takeaways from this project include a greater understanding of the hsl and hex color values as well as using the border to help produce an image.
+- My major takeaways from this project include a greater understanding of how forms can be coded for both accessibility as well as how simple it is to identify information to be sent to a database.
 
 Below is some code that I found most interesting or am proud of:
 
 ```html
-    <div class="marker red">
-        <div class="cap"></div>
-        <div class="sleeve"></div>
-      </div>
+<form method="post"
+      action='https://register-demo.freecodecamp.org'>
+  <fieldset>
+    ...
+    <label for="new-password">Create a New Password:
+      <input id="new-password"
+            name="new-password"
+            type="password"
+            pattern="[a-z0-5]{8,}"
+            required />
+      </label>
+  </fieldset>
 ```
 
 ```CSS
-    .sleeve {
-    width: 110px;
-    height: 25px;
-    background-color: rgba(255, 255, 255, 0.5);
-    border-left: 10px double rgba(0, 0, 0, 0.75);
- }
+input[type="submit"] {
+  ...
+}
 ```
 
 ### Continued development
 
-- Both rgb and hsl are a bit more intuitive for me, I'd like to dive deeper into hex and know more about how the naming convention produces the color. I'm still unsure how a single-digit scale of 1-9 and A-F combine in a two-digit number to produce a color. -->
+- With forms such as this one ubiquitous, it is inevitable that some users wil maliciously use it for their own purposes. Learning more about how to prevent this with additional security options is an area I'd like to learn more about.

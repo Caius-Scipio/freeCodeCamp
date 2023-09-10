@@ -40,19 +40,19 @@ This is my solution to the Colored Markers mini-project (https://www.freecodecam
 Below is some code that I found most interesting or am proud of:
 
 ```html
-    <div class="marker red">
-        <div class="cap"></div>
-        <div class="sleeve"></div>
-      </div>
+<div class="marker red">
+  <div class="cap"></div>
+  <div class="sleeve"></div>
+</div>
 ```
 
 ```CSS
-    .sleeve {
-    width: 110px;
-    height: 25px;
-    background-color: rgba(255, 255, 255, 0.5);
-    border-left: 10px double rgba(0, 0, 0, 0.75);
- }
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left: 10px double rgba(0, 0, 0, 0.75);
+}
 ```
 
 ### Continued development
