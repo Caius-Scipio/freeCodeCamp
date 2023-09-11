@@ -21,6 +21,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Cafe Menu [mini-project]
     - Colored Markers [mini-project]
     - Registration Form [mini-project]
+    - Survey From [Project]
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -29,6 +30,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
   - Cafe Menu (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CafeMenu)
   - Colored Markers (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ColoredMarkers)
   - Registration Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RegistrationForm)
+  - Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
 
 ## My process
 
