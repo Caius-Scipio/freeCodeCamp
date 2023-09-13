@@ -22,6 +22,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Colored Markers [mini-project]
     - Registration Form [mini-project]
     - Survey From [Project]
+    - Rothko Painting [mini-project]
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -31,6 +32,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
   - Colored Markers (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ColoredMarkers)
   - Registration Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RegistrationForm)
   - Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
+  - Rothko Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RothkoPainting)
 
 ## My process
 
