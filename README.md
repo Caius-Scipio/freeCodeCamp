@@ -23,6 +23,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Registration Form [mini-project]
     - Survey From [Project]
     - Rothko Painting [mini-project]
+    - Photo Gallery [mini-project]
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -33,6 +34,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
   - Registration Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RegistrationForm)
   - Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
   - Rothko Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RothkoPainting)
+  - Photo Gallery (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/PhotoGallery)
 
 ## My process
 
@@ -40,6 +42,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS Flexbox
 
 ## Author
 
