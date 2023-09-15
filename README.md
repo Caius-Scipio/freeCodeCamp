@@ -17,13 +17,14 @@ This repository is a collection of all projects and mini projects from freeCodeC
 ### File Structure
 
   - Responsive Web Design - HTML and CSS
-    - Cat Photo App [mini-project]
-    - Cafe Menu [mini-project]
-    - Colored Markers [mini-project]
-    - Registration Form [mini-project]
-    - Survey From [Project]
-    - Rothko Painting [mini-project]
-    - Photo Gallery [mini-project]
+      - Cat Photo App [mini-project]
+      - Cafe Menu [mini-project]
+      - Colored Markers [mini-project]
+      - Registration Form [mini-project]
+    = Survey From [Project]
+      - Rothko Painting [mini-project]
+      - Photo Gallery [mini-project]
+      - Nutrition Label [mini-project]
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -35,6 +36,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
   - Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
   - Rothko Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RothkoPainting)
   - Photo Gallery (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/PhotoGallery)
+  - Nutrition Label (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/NutritionLabel)
 
 ## My process
 
@@ -43,6 +45,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
+- CSS Functional Styling
 
 ## Author
 
