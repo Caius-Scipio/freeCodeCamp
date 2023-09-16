@@ -46,6 +46,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
 - CSS custom properties
 - CSS Flexbox
 - CSS Functional Styling
+- Accessibility
 
 ## Author
 
