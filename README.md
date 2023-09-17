@@ -25,6 +25,8 @@ This repository is a collection of all projects and mini projects from freeCodeC
       - Rothko Painting [mini-project]
       - Photo Gallery [mini-project]
       - Nutrition Label [mini-project]
+      - Quiz [mini-project]
+    = Tribute Page [Project]
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -37,6 +39,8 @@ This repository is a collection of all projects and mini projects from freeCodeC
   - Rothko Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RothkoPainting)
   - Photo Gallery (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/PhotoGallery)
   - Nutrition Label (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/NutritionLabel)
+  - Quiz (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Quiz)
+  - Tribute Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TributePage)
 
 ## My process
 
@@ -45,7 +49,6 @@ This repository is a collection of all projects and mini projects from freeCodeC
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
-- CSS Functional Styling
 - Accessibility
 
 ## Author
