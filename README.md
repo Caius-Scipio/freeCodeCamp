@@ -27,20 +27,22 @@ This repository is a collection of all projects and mini projects from freeCodeC
       - Nutrition Label [mini-project]
       - Quiz [mini-project]
     = Tribute Page [Project]
+      - Balance Sheet [mini-project]
   - JavaScript and Data Structures - JS
 
 ### Links
 
-  - Cat Photo App (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPhotoApp)
-  - Cafe Menu (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CafeMenu)
-  - Colored Markers (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ColoredMarkers)
-  - Registration Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RegistrationForm)
-  - Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
-  - Rothko Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RothkoPainting)
-  - Photo Gallery (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/PhotoGallery)
-  - Nutrition Label (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/NutritionLabel)
-  - Quiz (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Quiz)
-  - Tribute Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TributePage)
+    - Cat Photo App (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPhotoApp)
+    - Cafe Menu (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CafeMenu)
+    - Colored Markers (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ColoredMarkers)
+    - Registration Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RegistrationForm)
+  = Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
+    - Rothko Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RothkoPainting)
+    - Photo Gallery (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/PhotoGallery)
+    - Nutrition Label (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/NutritionLabel)
+    - Quiz (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Quiz)
+  = Tribute Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TributePage)
+    - Balance Sheet (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/BalanceSheet)
 
 ## My process
 

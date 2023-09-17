@@ -1,5 +1,5 @@
 # freeCodeCamp - Tribute Page
-This is my solution to the Tribute Page mini-project (https://www.freecodecamp.org/learn)
+This is my solution to the Tribute Page project (https://www.freecodecamp.org/learn)
 
 ## Table of contents
 
