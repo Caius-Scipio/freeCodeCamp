@@ -28,6 +28,8 @@ This repository is a collection of all projects and mini projects from freeCodeC
       - Quiz [mini-project]
     = Tribute Page [Project]
       - Balance Sheet [mini-project]
+      - Cat Painting [mini-project]
+      - Piano [mini-project]
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -43,6 +45,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Quiz (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Quiz)
   = Tribute Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TributePage)
     - Balance Sheet (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/BalanceSheet)
+    - Cat Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPaining)
     - Piano (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
 
 ## My process
