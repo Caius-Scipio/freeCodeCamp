@@ -43,6 +43,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Quiz (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Quiz)
   = Tribute Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TributePage)
     - Balance Sheet (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/BalanceSheet)
+    - Piano (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
 
 ## My process
 
@@ -52,6 +53,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
 - CSS custom properties
 - CSS Flexbox
 - Accessibility
+- Responsive Web Design
 
 ## Author
 
