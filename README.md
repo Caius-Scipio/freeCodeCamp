@@ -17,36 +17,39 @@ This repository is a collection of all projects and mini projects from freeCodeC
 ### File Structure
 
   - Responsive Web Design - HTML and CSS
+    - Survey From [Project]
       - Cat Photo App [mini-project]
       - Cafe Menu [mini-project]
       - Colored Markers [mini-project]
       - Registration Form [mini-project]
-    = Survey From [Project]
+    - Tribute Page [Project]
       - Rothko Painting [mini-project]
       - Photo Gallery [mini-project]
       - Nutrition Label [mini-project]
       - Quiz [mini-project]
-    = Tribute Page [Project]
+    - Technical Documentation [Project]
       - Balance Sheet [mini-project]
       - Cat Painting [mini-project]
       - Piano [mini-project]
+      
   - JavaScript and Data Structures - JS
 
 ### Links
-
+  - Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
     - Cat Photo App (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPhotoApp)
     - Cafe Menu (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CafeMenu)
     - Colored Markers (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ColoredMarkers)
     - Registration Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RegistrationForm)
-  = Survey Form (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/SurveyForm)
+  - Tribute Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TributePage)
     - Rothko Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/RothkoPainting)
     - Photo Gallery (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/PhotoGallery)
     - Nutrition Label (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/NutritionLabel)
     - Quiz (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Quiz)
-  = Tribute Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TributePage)
+  - Technical Documentation (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
     - Balance Sheet (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/BalanceSheet)
     - Cat Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPaining)
     - Piano (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
+
 
 ## My process
 
