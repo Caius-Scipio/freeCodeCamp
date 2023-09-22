@@ -17,21 +17,22 @@ This repository is a collection of all projects and mini projects from freeCodeC
 ### File Structure
 
   - Responsive Web Design - HTML and CSS
-    - Survey From [Project]
-      - Cat Photo App [mini-project]
-      - Cafe Menu [mini-project]
-      - Colored Markers [mini-project]
-      - Registration Form [mini-project]
-    - Tribute Page [Project]
-      - Rothko Painting [mini-project]
-      - Photo Gallery [mini-project]
-      - Nutrition Label [mini-project]
-      - Quiz [mini-project]
-    - Technical Documentation [Project]
-      - Balance Sheet [mini-project]
-      - Cat Painting [mini-project]
-      - Piano [mini-project]
-      
+    - Survey From [Project]: combines the below
+      - Cat Photo App [mini-project]: learn HTML
+      - Cafe Menu [mini-project]: learn basic CSS
+      - Colored Markers [mini-project]: learn CSS Colors
+      - Registration Form [mini-project]: learn HTML forms
+    - Tribute Page [Project]: combines the below
+      - Rothko Painting [mini-project]: learn CSS Box Model
+      - Photo Gallery [mini-project]: learn CSS Flexbox
+      - Nutrition Label [mini-project]: learn Typography
+      - Quiz [mini-project]: learn Accessibility
+    - Technical Documentation [Project]: combines the below
+      - Balance Sheet [mini-project]: learn pseudo selectors
+      - Cat Painting [mini-project]: 
+      - Piano [mini-project]: learn Responsive Web Design
+    - Product Landing Page [Project]: combines the below
+      - City Skyline [mini-project]: learn CSS variables
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -49,6 +50,8 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Balance Sheet (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/BalanceSheet)
     - Cat Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPaining)
     - Piano (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
+  - Product Landing Page
+    - City Skyline (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
 
 
 ## My process
