@@ -29,10 +29,11 @@ This repository is a collection of all projects and mini projects from freeCodeC
       - Quiz [mini-project]: learn Accessibility
     - Technical Documentation [Project]: combines the below
       - Balance Sheet [mini-project]: learn pseudo selectors
-      - Cat Painting [mini-project]: 
+      - Cat Painting [mini-project]:
       - Piano [mini-project]: learn Responsive Web Design
     - Product Landing Page [Project]: combines the below
       - City Skyline [mini-project]: learn CSS variables
+      - Magazing [mini-project]: learn CSS Grid
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -51,7 +52,8 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Cat Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPaining)
     - Piano (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
   - Product Landing Page
-    - City Skyline (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
+    - City Skyline (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CitySkyline)
+    - Magazine (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Magazine)
 
 
 ## My process
@@ -61,6 +63,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
+- CSS Grid
 - Accessibility
 - Responsive Web Design
 
