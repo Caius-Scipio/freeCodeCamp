@@ -51,7 +51,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Balance Sheet (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/BalanceSheet)
     - Cat Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPaining)
     - Piano (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
-  - Product Landing Page
+  - Product Landing Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ProductLandingPage)
     - City Skyline (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CitySkyline)
     - Magazine (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Magazine)
 
