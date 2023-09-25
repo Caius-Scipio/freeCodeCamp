@@ -34,6 +34,8 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Product Landing Page [Project]: combines the below
       - City Skyline [mini-project]: learn CSS variables
       - Magazing [mini-project]: learn CSS Grid
+    - Personal Portfolio [Project]: combine all projects and mini-projects' learning objectives
+      - Ferris Wheel [mini-project]: learn CSS Animation
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -47,13 +49,15 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Photo Gallery (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/PhotoGallery)
     - Nutrition Label (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/NutritionLabel)
     - Quiz (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Quiz)
-  - Technical Documentation (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
+  - Technical Documentation (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/TechnicalDocument)
     - Balance Sheet (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/BalanceSheet)
     - Cat Painting (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CatPaining)
     - Piano (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Piano)
   - Product Landing Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ProductLandingPage)
     - City Skyline (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CitySkyline)
     - Magazine (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Magazine)
+  - Personal Portfolio
+    - Ferris Wheel (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/FerrisWheel)
 
 
 ## My process
