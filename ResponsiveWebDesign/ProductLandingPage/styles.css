@@ -4,11 +4,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    --text: #0A0B05;
-    --background: #F9FAF4;
-    --primary: #3B15F9;
-    --secondary: #F2FFB3;
-    --accent: #C70F4C;
+    --text: #051B03;
+    --background: #F2FDF1;
+    --primary: #4550E8;
+    --secondary: #B6F5B2;
+    --accent: #C31824;
 }
 
 body {
