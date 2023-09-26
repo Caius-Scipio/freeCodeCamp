@@ -36,6 +36,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
       - Magazing [mini-project]: learn CSS Grid
     - Personal Portfolio [Project]: combine all projects and mini-projects' learning objectives
       - Ferris Wheel [mini-project]: learn CSS Animation
+      - Penguin [mini-project]: learn more CSS Animations
   - JavaScript and Data Structures - JS
 
 ### Links
@@ -58,6 +59,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
     - Magazine (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Magazine)
   - Personal Portfolio
     - Ferris Wheel (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/FerrisWheel)
+    - Penguin (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Penguin)
 
 
 ## My process
