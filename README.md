@@ -57,7 +57,7 @@ This repository is a collection of all projects and mini projects from freeCodeC
   - Product Landing Page (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/ProductLandingPage)
     - City Skyline (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/CitySkyline)
     - Magazine (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Magazine)
-  - Personal Portfolio
+  - Personal Portfolio (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Portfolio)
     - Ferris Wheel (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/FerrisWheel)
     - Penguin (https://github.com/Caius-Scipio/freeCodeCamp/tree/main/ResponsiveWebDesign/Penguin)
 
